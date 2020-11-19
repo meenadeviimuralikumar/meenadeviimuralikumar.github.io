@@ -18,7 +18,10 @@ author_profile: true
 
 ### Conference Papers
 
-here is the icon @ai-academia
+<i class="ai ai-academia"></i>
+
+<i class="ai ai-acm"></i>
+
 
   * Melinda McClure Haughey, **Meena Devii Muralikumar**, Cameron A. Wood, and Kate Starbird. 2020. On the Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online. Proc. ACM Hum.-Comput. Interact. 4, CSCW2, Article 133 (October 2020), 22 pages. DOI:https://doi.org/10.1145/3415204
 
