@@ -18,12 +18,11 @@ author_profile: true
 
 ### Conference Papers
 
-<i class="ai ai-academia"></i>
 
-<i class="ai ai-acm"></i>
+<i class="ai ai-acm" style="font-size: 1.2em;"></i>
 
 
-  * Melinda McClure Haughey, **Meena Devii Muralikumar**, Cameron A. Wood, and Kate Starbird. 2020. On the Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online. Proc. ACM Hum.-Comput. Interact. 4, CSCW2, Article 133 (October 2020), 22 pages. DOI:https://doi.org/10.1145/3415204
+  * Melinda McClure Haughey, **Meena Devii Muralikumar**, Cameron A. Wood, and Kate Starbird. 2020. On the Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online. Proc. ACM Hum.-Comput. Interact. 4, CSCW2, Article 133 (October 2020), 22 pages. [<i class="ai ai-acm" style="font-size: 1.2em;"></i>] (DOI:https://doi.org/10.1145/3415204)
 
   * Saumya Gupta, Theresa Jean Tanenbaum, **Meena Devii Muralikumar**, and Aparajita S. Marathe. 2020. Investigating Roleplaying and Identity Transformation in a Virtual Reality Narrative Experience. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13. DOI:https://doi.org/10.1145/3313831.3376762
 
