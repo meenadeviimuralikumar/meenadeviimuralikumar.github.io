@@ -2,7 +2,7 @@
 permalink: /
 title: "Meena Devii Muralikumar"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Meena :) 
 
-I'm a second year PhD student at the University of Washington, Seattle and am advised by Prof. David McDonald.
+I'm a second year PhD student at the [Human-centered Design & Engineering](https://www.hcde.washington.edu/) department at the University of Washington, Seattle. I am advised by Prof. David McDonald.
 
 Research Interests
 ======
