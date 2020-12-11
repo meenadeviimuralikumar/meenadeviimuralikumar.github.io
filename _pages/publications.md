@@ -30,11 +30,11 @@ author_profile: true
 
 ### Workshop Proceedings
   
-  * Meena Devii Muralikumar and Bonnie Nardi. 2018. Addressing limits through tracking food. In Proceedings of the 2018 Workshop on Computing within Limits (LIMITS '18). Association for Computing Machinery, New York, NY, USA, Article 3, 1–9. 
+  * **Meena Devii Muralikumar** and Bonnie Nardi. 2018. Addressing limits through tracking food. In Proceedings of the 2018 Workshop on Computing within Limits (LIMITS '18). Association for Computing Machinery, New York, NY, USA, Article 3, 1–9. 
   <br><a href="https://doi.org/10.1145/3232617.3232620"><i class="ai ai-acm" style="font-size: 2.2em; color:#62c462"></i></a>
 
 
 ### Posters or Extended Abstracts
 
-  * Meena Devii Muralikumar and Matthew J. Bietz. 2019. Visualizing Algorithmic Selection in Social Media. In Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing (CSCW '19). Association for Computing Machinery, New York, NY, USA, 319–323.
+  * **Meena Devii Muralikumar** and Matthew J. Bietz. 2019. Visualizing Algorithmic Selection in Social Media. In Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing (CSCW '19). Association for Computing Machinery, New York, NY, USA, 319–323.
   <br><a href="https://doi.org/10.1145/3311957.3359476"><i class="ai ai-acm" style="font-size: 2.2em; color:#62c462"></i></a>
