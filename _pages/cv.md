@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](https://meenadeviimuralikumar.github.io/files/Meena_Devii_Muralikumar_CV.pdf).
+You can download my CV [here](https://meenadeviimuralikumar.github.io/files/Meena_CV_Wi2021.pdf).
