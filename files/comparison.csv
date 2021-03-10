@@ -1,0 +1,7 @@
+source,count,bucket
+Participants,175,samples labelled not toxic
+Perspective,348,samples labelled not toxic
+Participants,370,samples labelled hard to say
+Perspective,416,samples labelled hard to say
+Participants,540,samples labelled toxic
+Perspective,321,samples labelled toxic
