@@ -23,3 +23,11 @@ Recent developments in Artificial Intelligence (AI) and Machine Learning (ML) ha
 2) Investigating if and how the design process can be adapted to face the inherent challenges involved in designing with AI/ML. 
 
 I also hold a Master's degree in Informatics from UC Irvine (where I was advised by Dr. Bonnie Nardi and Dr. Matthew Bietz) and a bachelor's degree in Computer Science. When I am not doing PhD things, I enjoy reading fiction and cooking Indian food.
+
+News
+======
+
+6/21/2021: Started my summer internship in Facebook as a UX Researcher
+4/23/2021: Participated in the 2021 Grad Cohort Workshop for Women
+1/6/2021: Passed my preliminary exam, the first milestone in HCDE
+
