@@ -29,5 +29,5 @@ News
 
 6/21/2021: Started my summer internship in Facebook as a UX Researcher \
 4/23/2021: Participated in the 2021 Grad Cohort Workshop for Women \
-1/6/2021: Passed my preliminary exam, the first milestone in HCDE \
+1/06/2021: Passed my preliminary exam, the first milestone in HCDE 
 
