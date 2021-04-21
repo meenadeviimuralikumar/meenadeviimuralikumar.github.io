@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Meena M"
   avatar           : "WhatsApp Image 2017-10-27 at 9.12.12 PM.jpeg"
-  bio              : "HCI Researcher"
+  bio              : "HCI/UX Researcher"
   location         : "Seattle, WA"
   employer         :
   pubmed           : #""
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/meena-m/"
-  orcid            : #""
+  orcid            : "0000-0003-4593-8038"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
