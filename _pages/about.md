@@ -18,11 +18,11 @@ My research is broadly situated in the intersection of HCI, CSCW, and AI/ML. Rec
 1) conducting human-centered evaluations of learning algorithms and \
 2) investigating if and how the design process can be adapted to face the inherent challenges involved in designing with AI/ML. 
 
-I also hold a Master's degree in Informatics from UC Irvine (where I was advised by Dr. Bonnie Nardi and Dr. Matthew Bietz) and a bachelor's degree in Computer Science. When I am not doing PhD things, I enjoy reading fiction and cooking Indian food.
+I also hold a Master's degree in Informatics from UC Irvine (where I was advised by Dr. Bonnie Nardi and Dr. Matthew Bietz) and a bachelor's degree in Computer Science. When I am not doing PhD things, I enjoy reading fiction and cooking.
 
 ---
 
-News
+Updates
 ======
 
 6/21/2021: Started my summer internship in Facebook as a UX Researcher \
