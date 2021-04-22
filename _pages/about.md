@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Meena, a second year PhD student from the [Human-centered Design & Engineering](https://www.hcde.washington.edu/) department in University of Washington, Seattle. I am advised by Prof. David McDonald.
+Hi! I am Meena, a second year PhD student from the [Human-centered Design & Engineering](https://www.hcde.washington.edu/) department in University of Washington, Seattle. I am advised by [Prof. David McDonald](https://www.hcde.washington.edu/mcdonald).
 
 Research Interests
 ======
